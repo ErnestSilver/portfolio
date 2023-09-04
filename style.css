@@ -1,0 +1,16 @@
+body {
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #fff;
+    padding: 10px;
+}
+
+.card {
+    margin: 25px;
+}
+
+main h3 {
+    margin: 10px;
+}
